@@ -3,12 +3,18 @@
     "WindowsUser": "Tima_Apercot",
     "HWID": "99e8f4dd-12c3-4388-a96f-59ec40c461bb",
     "LastRun": "2025-03-19 16:40:45",
-    "IsRunning":false
+    "IsRunning": true
   },
   {
     "WindowsUser": "Tima_Apercot",
     "HWID": "99e8f4dd-12c3-4388-a96f-59ec40c461bb",
     "LastRun": "2025-03-19 16:42:44",
-    "IsRunning": false
+    "IsRunning": true
+  },
+  {
+    "WindowsUser": "Tima_Apercot",
+    "HWID": "99e8f4dd-12c3-4388-a96f-59ec40c461bb",
+    "LastRun": "2025-03-19 16:43:25",
+    "IsRunning": true
   }
 ]
